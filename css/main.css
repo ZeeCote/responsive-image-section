@@ -19,5 +19,31 @@ html {
 
 body {
   margin: 0;
-  padding: 0;
 }
+
+section {
+  background-color: #e2e2e2;
+  display: flex;
+  padding-left: 3em;
+  padding-right: 3em;
+}
+
+a {
+  background-color: #555;
+  color: #fff;
+  text-decoration: none;
+  padding: 1rem;
+  border-radius: 5%;
+}
+
+.img,
+.text {
+  width: 50%;
+}
+
+.img-flex {
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+
