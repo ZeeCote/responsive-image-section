@@ -84,7 +84,7 @@ a:hover {
   .img,
   .text {
     width: 50%;
-    padding-right: 1rem;
+    padding: 4rem 1rem;
   }
 
   .text {
